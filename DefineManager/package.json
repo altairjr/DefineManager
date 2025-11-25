@@ -1,0 +1,17 @@
+{
+  "name": "com.github.altairjr.definemanager",
+  "version": "0.0.1",
+  "displayName": "Define Manager",
+  "description": "Tool for managing scripting define symbols per BuildTargetGroup inside the Unity Editor.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Altair Pereira Machado Junior",
+    "email": "altairpereira35@gmail.com",
+    "url": "https://www.linkedin.com/in/altairmachado"
+  },
+  "keywords": [
+    "defines",
+    "editor",
+    "scripting symbols"
+  ]
+}
